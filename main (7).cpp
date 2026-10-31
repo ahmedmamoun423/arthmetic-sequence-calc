@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int x;//the start number
-    int y;//the number at the end
+    double y;//the number at the end
     cout<<"to perform arthmetic sum enter the value of start no.: "<<endl;
     cin>>x;
     cout<<"to perform arthmetic sum enter the value of end no.: "<<endl;
